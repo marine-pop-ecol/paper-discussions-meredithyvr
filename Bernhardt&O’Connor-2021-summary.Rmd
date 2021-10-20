@@ -8,6 +8,50 @@ output:
 
 \newpage
 
+# Prediscussion 
+
+*Aquatic biodiversity enhances multiple nutrition benefits to humans*
+
+**Authors: Joey R. Bernhardt, and Mary I. O ’Connor. **
+
+Group Members: Caitlin Bergman, Mike Chung, Lucy Wall, Meredith Miller 
+
+## Key Terms 
+- Ecological Functional Diversity 
+- Recommended Dietary Allowance (RDA) 
+- Food security 
+- Micronutrients 
+- Macronutrients 
+- Pelagic and demersal 
+- Nutrient targets (NT) 
+- Complementarity 
+
+
+## General Questions 
+
+1. There are three main hypotheses tested in this paper. What are they, and what results would support each hypothesis? (*Hint - the first two hypotheses relate to nutritional benefits, and the third hypothesis relates to nutritional risks) 
+2. What metrics were used to determine relative nutritional content of edible tissues? 3. How was the data in this paper collected/produced? What are some of the benefits and disadvantages of this? 
+3. What gender and age group of RDA was used for this study? Why did they look at this group? Do the results still relate to impacts on the “RDA targets” for individuals outside of this group? 
+4. Why is it important that this study included both macronutrients and micronutrients? Why did they select the nutrients they did?
+
+## Key Findings 
+1. Figure 2 
+a. How does this figure contribute to the conclusions of the paper? 
+b. How do the findings differ between macronutrients and micronutrients? c. What is the purpose of the bottom graph? 
+d. Think about where this data comes from. How does this affect the applications of the results? 
+2. Figure 3 
+a. How do the results in this figure contribute to the conclusions of the paper? b. How do the results for protein differ from the results for micronutrients? c. What methods were used to produce these figures? How does this compare to place-based diets? 
+3. Figure 4 
+a. Which hypothesis does this figure relate to? How does it help answer this question? 
+b. What is the x-axis measuring in Figure 4A? What does this mean in the context of the human consumption of seafood? 
+c. What does this figure make you think about the risks vs rewards of increased species richness associated with human diets? 
+4. Applications and Future Research 
+a. Read this quote: “Finding a balance between seafood biodiversity, seafood biomass consumption, and the resulting risks and benefits will be critical for both human and ecosystem health.” (p. 7) 
+b. What implications do these findings have for a food security standpoint? c. What do the findings mean from a sustainability standpoint? 
+d. Armed with this information, how might this be applied at a local scale, and how might it be applied at a global scale? 
+e. What are the limitations of these findings, or obstacles to applying these results?
+
+
 # **Broad Questions**
 
 ## **Question 1: Is this paper still useful with an error in Figure 5?**
