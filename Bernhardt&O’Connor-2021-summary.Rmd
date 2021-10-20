@@ -1,0 +1,31 @@
+---
+title: "Bernhardt and O'Connor 2021 Paper Summary"
+author: "Meredith Miller, Caitlin Bergman, Mike Chung, Lucy Wall"
+date: "10/19/2021"
+output:
+    pdf_document
+---
+
+\newpage
+
+# **Broad Questions**
+
+## **Question 1: Is this paper still useful with an error in Figure 5?**
+For this specific paper, the error doesn’t negate the significance of their main findings related to the effect of species richness on nutritional benefits. The rest of the paper is still valid and has interesting and useful conclusions. However, this does not hold true for all errors that occur in published papers. It is important to think critically when reading papers, and not to assume that something is true just because it was written in one paper.
+
+## **Question 2: How would this error affect you if you were basing your research off of this paper? How does this make you think about the use of published papers as a whole?** 
+The error in Figure 5 was an isolated issue in this text. Cole mentioned how he would not have caught it if the code wasn’t openly available online. As scientists, we base a lot of our methods and assumptions off published papers, relying on assumptions of their factuality. It is difficult to fully understand all of the statistical analysis of this paper, but researchers shouldn’t necessarily go into it assuming that the peer-review process eliminated all mistakes or misunderstandings. This paper is a good reminder to not take every piece of primary literature like a static, factual conclusion. It made us think about the rigidity of the publishing process and the hurdles scientists must overcome (or try to overcome) to make corrections or edits in their work. We also considered how these roadblocks may limit us as we currently can’t treat our papers as living, working documents that can be updated and improved through time.
+
+## **Changing Viewpoints**
+Initially most students went into this paper trusting that the statistical analysis of the data was performed correctly, but as Cole mentioned how Figure 5 was improperly interpreted students began to look more critically. Many students were discussing the pros and cons of the author’s data collection methods, but nobody thought (or had the modelling background specialty) to second guess the accuracy of the interpretation. As discussed in Question 2, after discussing the paper we gained a deeper understanding of critical thinking approaches to interpreting studies, as well as the benefits of open-source, transparent methods, and open dialogue in writing and publishing scientific articles.
+
+## **Connections**
+These discussion questions relate to the methodology of the paper. The transparency of the methodology made it possible for the mistake in Figure 5 to be identified. The analyses used to create the figure were described in the supplementary methods, and the code was available online, which allowed Cole to understand exactly how the figure was created. This demonstrates the benefits of open-source science, since without transparent methods, it is much harder or impossible for mistakes to be noticed by the general scientific community. 
+
+## **Epistemology** 
+The following discussion had us question our current understanding of taking scientific findings at face value. Although there were errors in some of the analyses, this did not negate all the significance of their findings. It did however highlight the requirements for critical thinking and the importance of fully understanding the data and approach to analyses. Science should therefore be a collaborative effort, as someone who is an expert in one field may not have a deep understanding of other specialties. 
+
+## **How Science Happens**
+This paper made us think about how research is used once published, and the problems that might occur as a result. Once a paper has been peer reviewed and published, it is often regarded as fact and no longer subject to refutation. If an error makes it through the peer review process, other studies may reference it without investigating the exact methodology that was used. If an error is found, it can be a long, difficult, and expensive process to change it. Even once a paper is changed, the change may not be seen by everyone who reads the paper, depending on where people are accessing it. These issues make it easy for a small mistake to spread once it has been published, since other scientists may cite the original paper without noticing (or having the tools to notice) the mistake.
+
+
